@@ -96,8 +96,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 
 
-#### Mr. Loveneesh Dhir (Chairperson)
+#### Mr.Shibam Dhar (Chairperson)
 
-dhirloveneesh@gmail.com, (+91) 8851408462
+shibamd@acm.org
 
 
