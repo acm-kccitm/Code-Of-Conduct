@@ -96,7 +96,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 
 
-#### Mr.Shibam Dhar (Chairperson)
+#### Mr. Shibam Dhar (Chairperson)
 
 shibamd@acm.org
 
